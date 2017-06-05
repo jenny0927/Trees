@@ -64,6 +64,10 @@ article {
     background: url(img/Yew-Tree.jpg) no-repeat fixed;
     background-size: cover;
 }
+.index{
+    background: url(img/index.gif) no-repeat fixed;
+    background-size: cover;
+}
 
 #overview {
     max-width: 600px;
