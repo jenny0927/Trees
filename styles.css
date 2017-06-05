@@ -28,3 +28,7 @@ a:hover {
 .oakpic{
   float: left;
 }
+
+article {
+    margin: 0 40px;
+}
