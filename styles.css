@@ -16,7 +16,29 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    background-color: #212121;
+    color: #ECEFF1;
+}
+
+div.para1 {
+    text-align: center;
+    padding-left: 350px;
+    width: 600px;
+    height: 200px;
+}
+
+.oak {
+    text-align: center;
+}
+
+#oakimg {
+    width: 250px;
+    height: 250px;
+}
+
+.oakhead {
+    text-align: center;
 }
 
 #header {
@@ -58,4 +80,32 @@ a:hover {
 a:hover {
     color: #5C755E;
     text-decoration: none;
+}
+article {
+    margin: 0 40px;
+}
+
+.maple {
+    background: url(img/Maple-Tree.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
+.pine {
+    background: url(img/Pine-Tree.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
+.oaks {
+    background: url(img/Oaks-Tree.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
+.yew {
+    background: url(img/Yew-Tree.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
+#overview {
+    max-width: 600px;
+    background-color: rgba(236, 239, 241, 0.5);
 }
