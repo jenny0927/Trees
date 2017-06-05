@@ -21,6 +21,14 @@ a:hover {
     color: #ECEFF1;
 }
 
+.lead{
+
+}
+
+.oakpic{
+  float: left;
+}
+
 article {
     margin: 0 40px;
 }
