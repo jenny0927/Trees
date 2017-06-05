@@ -20,3 +20,7 @@ a:hover {
     background-color: #212121;
     color: #ECEFF1;
 }
+
+article {
+    margin: 0 40px;
+}
