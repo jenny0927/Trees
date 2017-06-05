@@ -21,6 +21,9 @@ a:hover {
     color: #ECEFF1;
 }
 
+.link1{
+  float: left;
+}
 div.para1{
   text-align: center;
   padding-left: 350px;
@@ -48,4 +51,3 @@ article {
     background: url(img/Maple-Tree.jpg) no-repeat fixed;
     background-size: cover;
 }
-
