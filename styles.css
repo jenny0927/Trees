@@ -50,6 +50,22 @@ article {
     background-size: cover;
 }
 
+.pine {
+    background: url(img/Pine-Tree.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
+.oaks {
+    background: url(img/Oaks-Tree.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
+.yew {
+    background: url(img/Yew-Tree.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
 #overview {
+    max-width: 600px;
     background-color: rgba(236, 239, 241, 0.5);
 }
