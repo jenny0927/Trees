@@ -23,18 +23,13 @@ a:hover {
 
 div.para1 {
     text-align: center;
-    padding-left: 350px;
+    padding-left: 0;
     width: 600px;
     height: 200px;
 }
 
 .oak {
     text-align: center;
-}
-
-#oakimg {
-    width: 250px;
-    height: 250px;
 }
 
 .oakhead {
@@ -102,6 +97,10 @@ article {
 
 .yew {
     background: url(img/Yew-Tree.jpg) no-repeat fixed;
+    background-size: cover;
+}
+.index{
+    background: url(img/index.gif) no-repeat fixed;
     background-size: cover;
 }
 
