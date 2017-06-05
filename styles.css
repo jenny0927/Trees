@@ -16,5 +16,7 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    background-color: #212121;
+    color: #ECEFF1;
 }
