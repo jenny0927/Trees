@@ -21,31 +21,35 @@ a:hover {
     color: #ECEFF1;
 }
 
-div.para1{
-  text-align: center;
-  padding-left: 350px;
-  width: 600px;
-  height: 200px;
-
+div.para1 {
+    text-align: center;
+    padding-left: 350px;
+    width: 600px;
+    height: 200px;
 }
 
-.oak{
-  text-align: center;
-
+.oak {
+    text-align: center;
 }
 
-#oakimg{
-  width: 250px;
-  height: 250px;
+#oakimg {
+    width: 250px;
+    height: 250px;
 }
-.oakhead{
-  text-align: center;
+
+.oakhead {
+    text-align: center;
 }
+
 article {
     margin: 0 40px;
 }
-.maple{
+
+.maple {
     background: url(img/Maple-Tree.jpg) no-repeat fixed;
     background-size: cover;
 }
 
+#overview {
+    background-color: rgba(236, 239, 241, 0.5);
+}
