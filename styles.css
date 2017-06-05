@@ -16,19 +16,36 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    background-color: #212121;
+    color: #ECEFF1;
 }
 
+div.para1{
+  text-align: center;
+  padding-left: 350px;
+  width: 600px;
+  height: 200px;
+
+}
+
+.oak{
+  text-align: center;
+
+}
+
+#oakimg{
+  width: 250px;
+  height: 250px;
+}
+.oakhead{
+  text-align: center;
+}
 article {
     margin: 0 40px;
 }
-
 .maple{
-    background: url(http://www.modernhdwallpaper.com/wp-content/uploads/2011/11/Maple-Tree.jpg) no-repeat fixed;
-        -webkit-background-size: cover;
-        -moz-background-size:cover;
-        -o-background-size: cover;
-        background-size: cover;
-        height: 150px;
-        width: 1200px;
+    background: url(img/Maple-Tree.jpg) no-repeat fixed;
+    background-size: cover;
 }
+
