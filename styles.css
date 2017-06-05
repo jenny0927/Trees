@@ -1,0 +1,20 @@
+.navigation-list {
+    display: inline;
+    border-radius: 16px;
+    line-height: 2.0em;
+    padding: 0 20px;
+    margin: 5px 0;
+    display: inline-block;
+    text-align: center;
+    background-color: #ECEFF1;
+    min-width: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: #212121;
+}
+
+a:hover {
+    text-decoration: underline;
+}
