@@ -21,14 +21,26 @@ a:hover {
     color: #ECEFF1;
 }
 
-.lead{
+div.para1{
+  text-align: center;
+  padding-left: 350px;
+  width: 600px;
+  height: 200px;
 
 }
 
-.oakpic{
-  float: left;
+.oak{
+  text-align: center;
+
 }
 
+#oakimg{
+  width: 250px;
+  height: 250px;
+}
+.oakhead{
+  text-align: center;
+}
 article {
     margin: 0 40px;
 }
