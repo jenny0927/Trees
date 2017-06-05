@@ -44,3 +44,8 @@ div.para1{
 article {
     margin: 0 40px;
 }
+.maple{
+    background: url(img/Maple-Tree.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
